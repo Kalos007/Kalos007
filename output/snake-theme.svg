@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="640" height="160" viewBox="0 0 640 160" preserveAspectRatio="xMidYMid meet" role="img" aria-label="GitHub contribution grid snake animation (theme aware)">
+  <style>
+    /* show light by default, swap to dark under dark mode */
+    .light { display: inline; }
+    .dark  { display: none; }
+    @media (prefers-color-scheme: dark) {
+      .light { display: none; }
+      .dark  { display: inline; }
+    }
+    image { width:100%; height:100%; }
+  </style>
+
+  <!-- These hrefs point to the light and dark snake SVGs in the repository. Adjust the branch/ref if needed. -->
+  <image class="light" x="0" y="0"
+         xlink:href="https://raw.githubusercontent.com/Kalos007/Kalos007/main/output/snake.svg"
+         width="640" height="160" preserveAspectRatio="xMidYMid meet" />
+  <image class="dark" x="0" y="0"
+         xlink:href="https://raw.githubusercontent.com/Kalos007/Kalos007/main/output/snake-dark.svg"
+         width="640" height="160" preserveAspectRatio="xMidYMid meet" />
+</svg>
