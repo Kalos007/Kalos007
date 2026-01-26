@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Devis @Kalos007 and I'm a full stack Developer , Working on Web,</h2>
+<h2 align="left">Hi 👋! My name is Devis @Kalos007 and I'm a full stack Developer , Working on Web,Mobile</h2>
 
 ###
 
