@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devis (Kalos007)</h1>
-<h3 align="center">Full Stack Developer | Web & Mobile Engineer</h3>
+
 
 <p align="center">
-  I build scalable web & mobile applications with modern technologies.
+  I just like to learn and  build scalable web & mobile applications with modern technologies.
 </p>
 
 ---
