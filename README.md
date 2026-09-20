@@ -7,16 +7,11 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kalos007&show_icons=true&theme=dracula&count_private=true" alt="Kalos007 GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalos007&layout=compact&theme=dracula" alt="Kalos007 Top Languages" />
-</p>
 
 ---
 
-## 🛠 Tech Stack
+
 
 <!-- <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -30,7 +25,7 @@
 
 ---
 
-## 🌐 Connect With Me
+
 
 <!-- <p align="center">
   
@@ -42,10 +37,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalos007/Kalos007/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalos007/Kalos007/output/snake.svg" />
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kalos007/Kalos007/output/snake.svg" />
   </picture>
-</p>
+</p> -->
